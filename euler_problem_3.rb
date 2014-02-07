@@ -7,7 +7,7 @@
 	# 2. determine any are primes
 	# 3. find the largest
 
-find_primes = 600851475143 #set to 13195 for testing
+find_primes = 13195 #set to 13195 for testing
 
 factors_ary = Array.new
 factors_int = 2 
@@ -48,4 +48,6 @@ integer = 0
 	integer = integer +1
 	end
 
+puts factors_ary
+puts primes_ary
 puts primes_ary.last

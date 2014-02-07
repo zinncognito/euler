@@ -23,3 +23,4 @@ poop_ary.push(turd_ary[integer] * turd_ary[integer+1] * turd_ary[integer+2] * tu
 	end
 
 puts poop_ary
+puts turd_ary
